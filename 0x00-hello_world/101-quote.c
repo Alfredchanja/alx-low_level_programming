@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints the phrase "and that piece of art is useful"
- * - Dora Korpar, 2015-10-19,"
- * followed by a new line,to the atandard error.
+ * main - Prints the statement "and that pieceof art is useful\"
+ * - Dora Korpar, 2015-10-19\n"
+ *
  * Returns - 1, else non-zero
  */
 int main(void)

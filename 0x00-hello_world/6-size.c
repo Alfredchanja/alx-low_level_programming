@@ -1,8 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of various types
- * Return - 0 if exited correctly, else non-zero
+ * main - Prints "the size variation of
+ * a char
+ * of an int
+ * of a long int
+ * of a long long int
+ * of a float"
+ *
+ * Return - If 0 (success)
  */
 int main(void)
 {
