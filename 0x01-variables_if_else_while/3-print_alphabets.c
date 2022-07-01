@@ -11,11 +11,11 @@ int main(void)
 	int  Alpha;
 
 
-	for (Alpha = 'A'; Alpha <= 'Z'; Alpha++)
+	for (Alpha = 'a'; Alpha <= 'z'; Alpha++)
 	{
 		putchar(Alpha);
 	}
-	for (Alpha = 'a'; Alpha <= 'z'; Alpha++)
+	for (Alpha = 'A'; Alpha <= 'Z'; Alpha++)
 	{
 		putchar(Alpha);
 	}
