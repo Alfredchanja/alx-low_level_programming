@@ -7,8 +7,7 @@
  * of a long int
  * of a long long int
  * of a float"
- *
- * Return - If 0 (success)
+ * Return: If 0 (success)
  */
 int main(void)
 {
