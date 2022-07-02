@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible combinations of two 
+ * main - prints all possible combinations of two
  * two-digit numbers.
  * numbers range from 0 to 99
  * numbers are printed with two digits
