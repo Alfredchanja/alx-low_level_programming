@@ -5,7 +5,7 @@
  * followed by new line.
  * except the letters q and e.
  * use the putchar function twice
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)

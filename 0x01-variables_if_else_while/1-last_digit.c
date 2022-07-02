@@ -9,7 +9,7 @@
  * if the last digit of n is > 5
  * if the last digit of n is == 0
  * if the last digit of n > 6 and != 0
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
