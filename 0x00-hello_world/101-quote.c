@@ -4,7 +4,7 @@
  * main - Prints the statement "and that pieceof art is useful\"
  * - Dora Korpar, 2015-10-19\n"
  *
- * Returns - 1, else non-zero
+ * Return: 1, else non-zero
  */
 int main(void)
 {
