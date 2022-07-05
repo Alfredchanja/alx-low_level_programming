@@ -7,15 +7,14 @@
  */
 int _putchar(char c)
 {
-	char putchar[] = "_putchar";
-	int i = 0;
-
-	while (putchar[i] != '\0')
-	{
-		_putchar("_putchar");
-		i++;
-	
-	}
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	_putchar("a");
+	_putchar("r");
 	_putchar("\n");
 
 	return (0);
