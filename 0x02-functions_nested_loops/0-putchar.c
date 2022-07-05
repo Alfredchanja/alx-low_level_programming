@@ -12,7 +12,14 @@ int main (void)
 
 	while (main[i] != '\0')
 	{
-		putchar("_putchar");
+		putchar("_");
+		putchar("p");
+		putchar("u");
+		putchar("t");
+		putchar("c");
+		putchar("h");
+		putchar("a");
+		putchar("r");
 		i++;
 	
 	}
