@@ -8,23 +8,16 @@
  */
 int main (void)
 {
-	char main[] = "_putchar";
+	char putchar[] = "_putchar";
 	int i = 0;
 
-	while (main[i] != '\0')
+	while (putchar[i] != '\0')
 	{
-		putchar("_");
-		putchar("p");
-		putchar("u");
-		putchar("t");
-		putchar("c");
-		putchar("h");
-		putchar("a");
-		putchar("r");
+		_putchar("_putchar");
 		i++;
 	
 	}
-	putchar("\n");
+	_putchar("\n");
 
 	return (0);
 }
