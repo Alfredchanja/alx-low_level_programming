@@ -10,7 +10,7 @@
 
 int convert_day(int month, int day)
 {
-	switvh (month)
+	switch (month)
 	{
 		case 2:
 			day = 31 + day;
