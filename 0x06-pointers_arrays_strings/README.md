@@ -5,3 +5,11 @@ File 1-Concatenates two strings. It is the to the _strcat function except it use
 File 2-Copies a srin and works exactly like strncpy.
 
 File 3-Compares two strings. The function should work exactly like strcmp.
+
+File 4-Reverses the content of an arrayof integers.
+
+File 5-Changes all the lowercase letters of a string to uppercase.
+
+File 6-Capitalizes all words of a string.
+
+File 7-Encodes a string into 1337.
