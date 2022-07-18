@@ -12,4 +12,6 @@ File 5-Locates a substring.
 
 File 6-Prints a chessboard.
 
+File 7-Prints the sum of two diagonals of a square matrix of integer.
+
 
