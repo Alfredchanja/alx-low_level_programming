@@ -10,4 +10,6 @@ File 4-Searches a string for any ofa set of bites.
 
 File 5-Locates a substring.
 
+File 6-Prints a chessboard.
+
 
