@@ -17,5 +17,5 @@ void _puts_recursion(char *s)
 	}
 	_putchar(*s);	 /* *s is dereferencing the values that are stored in s*/
 	s++;
-	_puts_recurision(s);
+	_puts_recursion(s);
 }
