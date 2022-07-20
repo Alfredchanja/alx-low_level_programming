@@ -15,7 +15,7 @@ void _print_rev_recursion(char *s)
 				   */
 	s--;	/* The adress of each character from the last
 		   */
-	_putchar(s);	/* Prints the values found in
+	_putchar(*s);	/* Prints the values found in
 			 * these characters from the last character
 			 */
 }
